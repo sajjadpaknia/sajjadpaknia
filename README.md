@@ -2,4 +2,4 @@ Client-side development Html, Css, JS, ReactJS, Redux and more. interested in bu
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux)](https://skillicons.dev)
 
-![example workflow](https://img.shields.io/badge/Coding-always-brightgreen)
+![example workflow](https://img.shields.io/badge/Coding-always-brightgreen)  ![example workflow](https://img.shields.io/badge/Book-always-blueviolet) 
