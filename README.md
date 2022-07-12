@@ -1,5 +1,5 @@
 Client-side development Html, Css, JS, [ReactJS](https://reactjs.org/), Redux and more.<br>
-Interested in building useful features.<br>
+I'm interested in building useful features to improve the user experience.<br>
 The structure of the project, program performance and the reusability of the code are important to me and I always try to comply with them.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,github,vscode,ai,ps)](https://skillicons.dev)
